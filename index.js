@@ -128,7 +128,7 @@ window.addEventListener('keydown', (event) => {
 			keys.ArrowRight.pressed = true
 			enemy.lastKey = 'ArrowRight'
 			break
-		case 'ArrowUp':
+		case 'ArrowUp':пг
 			enemy.velocity.y = -20
 			break
 	}
